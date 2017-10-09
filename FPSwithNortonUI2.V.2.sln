@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5D2E3300-53C6-528E-223E-B6EAA9D806F1}") = "FPSwithNortonUI2.V.2", "Assembly-CSharp.csproj", "{C62AD882-3DD1-8236-4EB8-26087CCCAA6D}"
+EndProject
+Project("{5D2E3300-53C6-528E-223E-B6EAA9D806F1}") = "FPSwithNortonUI2.V.2", "Assembly-CSharp-Editor.csproj", "{ED6C3845-60F7-BB47-EBBA-3FC445383D38}"
+EndProject
+Project("{5D2E3300-53C6-528E-223E-B6EAA9D806F1}") = "FPSwithNortonUI2.V.2", "Assembly-UnityScript.unityproj", "{A84544CC-53F9-AB6B-6872-99CA64B0CFFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C62AD882-3DD1-8236-4EB8-26087CCCAA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62AD882-3DD1-8236-4EB8-26087CCCAA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62AD882-3DD1-8236-4EB8-26087CCCAA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62AD882-3DD1-8236-4EB8-26087CCCAA6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6C3845-60F7-BB47-EBBA-3FC445383D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6C3845-60F7-BB47-EBBA-3FC445383D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6C3845-60F7-BB47-EBBA-3FC445383D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6C3845-60F7-BB47-EBBA-3FC445383D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84544CC-53F9-AB6B-6872-99CA64B0CFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84544CC-53F9-AB6B-6872-99CA64B0CFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84544CC-53F9-AB6B-6872-99CA64B0CFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84544CC-53F9-AB6B-6872-99CA64B0CFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
